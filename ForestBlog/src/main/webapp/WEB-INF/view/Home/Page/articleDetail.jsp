@@ -65,7 +65,7 @@
 <%--                        <ul class="weimg1">--%>
 <%--                            <li><strong>微信</strong></li>--%>
 <%--                            <li>赶快加我聊天吧</li>--%>
-<%--                            <li><img src="../webapp/resource/assets/img/weixin.jpg"></li>--%>
+<%--                            <li><img src="../webapp/resource/assets/img/wcqrcode.jpg"></li>--%>
 <%--                        </ul>--%>
 <%--                        <ul class="weimg2">--%>
 <%--                            <li><strong>博客交流群</strong></li>--%>

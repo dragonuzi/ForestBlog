@@ -32,7 +32,8 @@
                         <a title="微信" id="weixin_btn" rel="external nofollow">
                             <i class="fa fa-weixin"> </i>
                             <div id="weixin_code" class="hide" >
-                                <img src="${options.optionAboutsiteWechat}" alt="">
+<%--                                --%>
+                                <img src="/img/wcqrcode.jpg" alt="">
                             </div>
                         </a>
                     </li>
